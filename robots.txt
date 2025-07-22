@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Olaoluwa-I-Akanji.github.io/al-folio/sitemap.xml
+Sitemap: https://Olaoluwa-I-Akanji.github.io/sitemap.xml
