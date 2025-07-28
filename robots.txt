@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Olaoluwa-I-Akanji.github.io/sitemap.xml
+Sitemap: https://A-IO2.github.io/sitemap.xml
