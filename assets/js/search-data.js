@@ -435,11 +435,11 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations",
+          title: 'An Inquiry into the Nature and Causes of the Wealth of Nations',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/On_The_Wealth_of_Nations/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
