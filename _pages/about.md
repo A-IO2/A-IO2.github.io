@@ -27,3 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 A Computer Science co-op graduate from Brock University, this creative team player thrives on presenting fresh perspectives to complex challenges while balancing strong analytical and problem-solving skills. Outside academics, he finds joy and strength in family, faith, and music—often retreating to prayer or the keyboard to stay grounded. 
+Hi I am overwatch. I ensure the job gets fdone by mandingng
