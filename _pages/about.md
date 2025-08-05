@@ -13,7 +13,7 @@ profile:
     <p>Brock University</p>
     <p>St. Catharines, Ontario</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -26,5 +26,4 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-A Computer Science co-op graduate from Brock University, this creative team player thrives on presenting fresh perspectives to complex challenges while balancing strong analytical and problem-solving skills. Outside academics, he finds joy and strength in family, faith, and music—often retreating to prayer or the keyboard to stay grounded. 
-Hi I am overwatch. I ensure the job gets fdone by mandingng
+Hi, I’m Ola. I enjoy organizing events, planning and managing software projects. I've done 20+ events, encompassing 50+ satisfied attendees. At Brock uni, I was involved in numerous projects such as courseMix.ca. I utilized Jira, Github projects, Microsoft excel and even clickup to manage sprints, manage workflows, foster interunit communication, and engineer intuitive solutions to collaboratively intricate challenges.
