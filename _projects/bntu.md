@@ -2,8 +2,8 @@
 layout: page
 title: BNTU
 description: Bring NASA To Us
-img: NASA_apod.jpg
+img: assets/img/NASA_apod.jpg
 importance: 1
-category: programmingFun
+category: fun
 related_publications: false
 ---
