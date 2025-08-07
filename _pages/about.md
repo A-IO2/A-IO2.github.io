@@ -26,4 +26,4 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hi, I’m Ola. I enjoy organizing events, planning and managing software projects. I've done 20+ events, encompassing 50+ satisfied attendees. At Brock uni, I was involved in numerous projects such as courseMix.ca. I utilized Jira, Github projects, Microsoft excel and even clickup to manage sprints, manage workflows, foster interunit communication, and engineer intuitive solutions to collaboratively intricate challenges.
+Hi, I’m Ola. I’m passionate about event organizing and software project management from concept to completion. I’ve successfully led 20+ events, engaging over 50 satisfied attendees. At Brock University, I contributed to and oversaw several initiatives, including courseMix.ca. I’ve leveraged tools like Jira, GitHub Projects, Microsoft Excel, and ClickUp to manage sprints, streamline workflows, foster cross-functional collaboration, and deliver intuitive solutions to intricate challenges.

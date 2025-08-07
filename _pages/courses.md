@@ -7,6 +7,5 @@ nav: false
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+Introduction to Cybersecurity (COSC 4P50):
+I thoroughly enjoyed this course. I found it both engaging and rewarding, completing it with a final grade of 100% (a little flex). Leveraging the SEED Lab 2.0 framework in a secure Linux environment, I conducted hands-on exercises in privilege escalation, shell and environment variable manipulation, system exploitation techniques, and much more. I acquired practical experience in identifying and securing vulnerable systems, substantially strengthening my understanding of system-level security and attack mitigation strategies.

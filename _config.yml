@@ -84,7 +84,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: A-IO2 Info # blog_name will be displayed in your blog page
-blog_description: "I go by A-IO2 online (a condensed acronym of my names) which ironically coincides with a nano-particle. Here's what I know :"
+blog_description: "I go by A-IO2 online, a condensed acronym of my names that, interestingly, parallels the name of a nanoparticle. Here’s what I've uncovered:" # I’m a Computer Science major passionate about turning complex data into clear, actionable insights. With practical experience in infrastructure asset management, product ownership, data analytics, and full-stack web development, I’m proficient in Power BI, SQL, Oracle, Jira, Python, Java, and more. I thrive on solving problems and continuously learning new skills to enhance my expertise." 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
