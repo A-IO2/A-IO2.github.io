@@ -307,7 +307,9 @@ export function LandingPage() {
               </Button>
               <Button size="lg" variant="outline" className="bg-transparent border-primary-foreground/20 text-primary-foreground hover:bg-primary-foreground/10">
                 <Download className="mr-2 h-4 w-4" />
-                Download Full CV
+		    <a href="/cv.pdf">
+		    Download Full CV
+		    </a>
               </Button>
             </div>
           </motion.div>
